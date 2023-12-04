@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgm25445qqdok"]
+
+[ext_resource type="Script" path="res://unfinished/state_machine/level_with_states.gd" id="1_vnilg"]
+
+[node name="test_states" type="Node2D"]
+script = ExtResource("1_vnilg")

@@ -1,0 +1,137 @@
+[gd_scene load_steps=12 format=3 uid="uid://coq0ji26akg1h"]
+
+[ext_resource type="Script" path="res://Pon2/level3/level3.gd" id="1_fwem4"]
+[ext_resource type="PhysicsMaterial" uid="uid://hklafm3trk0h" path="res://unfinished/adjust/pon_physics_material.tres" id="2_p17q0"]
+[ext_resource type="Script" path="res://Pon2/level3/Pon(3).gd" id="3_6gi27"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="4_6ryqt"]
+[ext_resource type="PackedScene" uid="uid://v44ine65ib05" path="res://Pon2/tile_map.tscn" id="5_uh06h"]
+[ext_resource type="Script" path="res://Pon2/Reward.cs" id="6_6tt3j"]
+[ext_resource type="Script" path="res://Pon2/level3/CollisionShape2D.gd" id="8_x2gc4"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_gmny3"]
+radius = 86.0058
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wr2n5"]
+size = Vector2(1, 1700)
+
+[sub_resource type="GDScript" id="GDScript_024vu"]
+script/source = "extends Node2D
+
+@onready var pos
+@onready var points = $Path2D.curve.get_baked_points()
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass
+
+
+func _draw():
+	#move_to_front()
+	var c = Color.NAVAJO_WHITE
+	points.append(Vector2(100,0)) 
+	points.append(Vector2(100,800))
+	points.append(Vector2(0,800))
+	draw_colored_polygon(points, c)
+	set_position(pos)
+	print(get_position())
+	#$leaf_/CollisionShape2D.shape_ = points 
+	print(pos)
+"
+
+[sub_resource type="Curve2D" id="Curve2D_6h1jw"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 0, 0)
+}
+point_count = 1
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_fwem4")
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+physics_material_override = ExtResource("2_p17q0")
+script = ExtResource("3_6gi27")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D"]
+shape = SubResource("CircleShape2D_gmny3")
+
+[node name="Sprite2D" type="Sprite2D" parent="RigidBody2D/CollisionShape2D"]
+scale = Vector2(0.3, 0.277)
+texture = ExtResource("4_6ryqt")
+
+[node name="TileMap" parent="." instance=ExtResource("5_uh06h")]
+
+[node name="Button" type="Button" parent="."]
+self_modulate = Color(1, 1, 1, 0)
+offset_right = 2415.0
+offset_bottom = 3020.0
+scale = Vector2(0.082, 0.082)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon_alignment = 1
+expand_icon = true
+
+[node name="TextureButton" type="TextureButton" parent="Button"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1207.5
+offset_top = -1410.0
+offset_right = 1192.5
+offset_bottom = 990.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("4_6ryqt")
+stretch_mode = 0
+
+[node name="Button2" type="Button" parent="."]
+self_modulate = Color(1, 1, 1, 0)
+offset_right = 2415.0
+offset_bottom = 3020.0
+scale = Vector2(0.082, 0.082)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon_alignment = 1
+expand_icon = true
+
+[node name="TextureButton2" type="TextureButton" parent="Button2"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1207.5
+offset_top = -1410.0
+offset_right = 1192.5
+offset_bottom = 990.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("4_6ryqt")
+stretch_mode = 0
+
+[node name="Fluid" type="Node2D" parent="."]
+position = Vector2(-100, -15.5)
+script = ExtResource("6_6tt3j")
+
+[node name="leaf_" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="leaf_"]
+shape = SubResource("RectangleShape2D_wr2n5")
+script = ExtResource("8_x2gc4")
+
+[node name="leaf" type="Node2D" parent="."]
+script = SubResource("GDScript_024vu")
+
+[node name="Path2D" type="Path2D" parent="leaf"]
+curve = SubResource("Curve2D_6h1jw")
+
+[connection signal="pressed" from="Button" to="Fluid" method="_on_button_pressed"]
+[connection signal="pressed" from="Button/TextureButton" to="." method="_on_texture_button_pressed"]
+[connection signal="pressed" from="Button/TextureButton" to="Fluid" method="_on_texture_button_pressed"]
+[connection signal="pressed" from="Button2" to="Fluid" method="_on_button_2_pressed"]
+[connection signal="pressed" from="Button2/TextureButton2" to="." method="_on_texture_button_2_pressed"]
+[connection signal="pressed" from="Button2/TextureButton2" to="Fluid" method="_on_texture_button_2_pressed"]
+[connection signal="body_entered" from="leaf_" to="RigidBody2D" method="_on_leaf__body_entered"]

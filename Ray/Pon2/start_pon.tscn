@@ -1,0 +1,30 @@
+[gd_scene load_steps=3 format=3 uid="uid://ce3d320inlp6u"]
+
+[ext_resource type="Script" path="res://Pon2/start_pon.gd" id="1_lsbep"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="2_h8p5v"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_lsbep")
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 412.0
+offset_top = 3.99999
+offset_right = 1019.0
+offset_bottom = 612.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.7, 1.7)
+size_flags_horizontal = 4
+size_flags_vertical = 6
+icon = ExtResource("2_h8p5v")
+flat = true
+icon_alignment = 1
+
+[node name="Timer" type="Timer" parent="Button"]
+
+[connection signal="button_up" from="Button" to="." method="_on_button_button_up"]

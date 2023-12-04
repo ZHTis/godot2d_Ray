@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://dyw8dkthkwv0y"]
+
+[ext_resource type="Script" path="res://unfinished/Slide/slide.gd" id="1_t86do"]
+[ext_resource type="Texture2D" uid="uid://boatyqxivrrjm" path="res://Assets/580b585b2edbce24c47b2b90.png" id="2_tmd3d"]
+
+[sub_resource type="Curve2D" id="Curve2D_wdj6w"]
+_data = {
+"points": PackedVector2Array(-140.109, -227.451, 140.109, 227.451, 137.904, 137.669, 168.213, 656.05, -168.213, -656.05, 1279.71, 40.3701)
+}
+point_count = 2
+
+[node name="slide" type="Node2D"]
+scale = Vector2(1.39797, 2.42754)
+script = ExtResource("1_t86do")
+
+[node name="Path2D" type="Path2D" parent="."]
+position = Vector2(-3.66606, -3.65124)
+scale = Vector2(1.02658, 1.00881)
+curve = SubResource("Curve2D_wdj6w")
+
+[node name="PathFollow2D" type="PathFollow2D" parent="Path2D"]
+position = Vector2(137.904, 137.669)
+rotation = 1.46995
+scale = Vector2(0.643919, 0.775351)
+rotates = false
+
+[node name="Sprite2D" type="Sprite2D" parent="Path2D/PathFollow2D"]
+scale = Vector2(0.0428473, 0.0552848)
+skew = 0.0977384
+texture = ExtResource("2_tmd3d")

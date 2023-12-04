@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://cmpst3auidqck"]
+
+[ext_resource type="Script" path="res://unfinished/satck/satck.gd" id="1_u7edj"]
+[ext_resource type="PackedScene" uid="uid://v44ine65ib05" path="res://Pon2/tile_map.tscn" id="2_4ho7a"]
+
+[node name="satck" type="Node2D"]
+script = ExtResource("1_u7edj")
+
+[node name="TileMap" parent="." instance=ExtResource("2_4ho7a")]
+
+[node name="stoneBucket" type="Node2D" parent="."]

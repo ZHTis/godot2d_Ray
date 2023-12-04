@@ -1,0 +1,38 @@
+[gd_scene load_steps=6 format=3 uid="uid://cygf2nxpb2nr5"]
+
+[ext_resource type="Script" path="res://Shrek/stone.gd" id="1_t78db"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_eck6i"]
+rough = true
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_lb8kc"]
+size = Vector2(12.5, 51.5)
+
+[sub_resource type="Gradient" id="Gradient_lgx0b"]
+offsets = PackedFloat32Array(0, 0.96)
+colors = PackedColorArray(4.23551e-06, 0.720819, 0.728469, 1, 0.761825, 0.819932, 0.982274, 1)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_wn3y5"]
+gradient = SubResource("Gradient_lgx0b")
+width = 100
+height = 100
+fill = 1
+fill_from = Vector2(0.5, 0.5)
+
+[node name="brick" type="Node2D" groups=["eggs"]]
+script = ExtResource("1_t78db")
+
+[node name="RigidBody2D" type="RigidBody2D" parent="." groups=["eggs"]]
+mass = 3.0
+physics_material_override = SubResource("PhysicsMaterial_eck6i")
+gravity_scale = 1.5
+freeze = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D" groups=["eggs"]]
+shape = SubResource("RectangleShape2D_lb8kc")
+
+[node name="Sprite2D" type="Sprite2D" parent="RigidBody2D/CollisionShape2D" groups=["eggs"]]
+texture = SubResource("GradientTexture2D_wn3y5")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="RigidBody2D" groups=["eggs"]]
+scale = Vector2(1.01911, 0.978795)

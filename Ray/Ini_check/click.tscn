@@ -1,0 +1,32 @@
+[gd_scene load_steps=3 format=3 uid="uid://bc72uipnil74n"]
+
+[ext_resource type="Script" path="res://Ini_check/ini_check.gd" id="1_p63b3"]
+[ext_resource type="PackedScene" uid="uid://dmpm3u8hck0hn" path="res://Ini_check/control.tscn" id="2_j61c5"]
+
+[node name="click" type="Node2D"]
+script = ExtResource("1_p63b3")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="Label" type="Label" parent="Sprite2D"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -11.5
+offset_right = 20.0
+offset_bottom = 11.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" parent="." instance=ExtResource("2_j61c5")]
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 0.0
+offset_bottom = 0.0
+
+[connection signal="click" from="." to="Sprite2D" method="_on_m_ain_click"]

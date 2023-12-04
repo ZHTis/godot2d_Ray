@@ -1,0 +1,37 @@
+[gd_scene load_steps=4 format=3 uid="uid://cetlerwabhy8o"]
+
+[ext_resource type="Script" path="res://start0/start_main.gd" id="1_ixtht"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="2_k1fhg"]
+[ext_resource type="Script" path="res://start0/Reward_test.cs" id="3_lqvh7"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_ixtht")
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 412.0
+offset_top = 3.99999
+offset_right = 1019.0
+offset_bottom = 612.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.7, 1.7)
+size_flags_horizontal = 4
+size_flags_vertical = 6
+icon = ExtResource("2_k1fhg")
+flat = true
+icon_alignment = 1
+
+[node name="Timer" type="Timer" parent="Button"]
+
+[node name="fluid" type="Node2D" parent="Button"]
+position = Vector2(-242.353, -2.35294)
+scale = Vector2(0.588235, 0.588235)
+script = ExtResource("3_lqvh7")
+
+[connection signal="button_up" from="Button" to="." method="_on_button_up"]
+[connection signal="pressed" from="Button" to="Button/fluid" method="_on_button_pressed"]

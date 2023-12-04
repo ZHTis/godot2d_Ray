@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=3 uid="uid://bjdvg26jrwcia"]
+
+[ext_resource type="Script" path="res://unfinished/Slide/slide2.gd" id="1_o3anw"]
+[ext_resource type="PhysicsMaterial" uid="uid://cxhern0jtbnwt" path="res://unfinished/Slide/slide2Mateiral.tres" id="2_aaboa"]
+[ext_resource type="PackedScene" uid="uid://b61h52rf5pibb" path="res://unfinished/Slide/Pony.tscn" id="3_nxlxt"]
+
+[sub_resource type="Curve2D" id="Curve2D_wdj6w"]
+_data = {
+"points": PackedVector2Array(-117.786, -212.916, 117.786, 212.916, 120, 120, -272.128, 216.804, 272.128, -216.804, 1200.31, 231.922, 0, 0, 0, 0, 1316.96, 427.943, 0, 0, 0, 0, 25.0849, 427.126, 0, 0, 0, 0, 120, 120)
+}
+point_count = 5
+
+[node name="slide2" type="Node2D"]
+scale = Vector2(1.39797, 2.42754)
+script = ExtResource("1_o3anw")
+
+[node name="Path2D" type="Path2D" parent="."]
+curve = SubResource("Curve2D_wdj6w")
+metadata/_edit_group_ = true
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+physics_material_override = ExtResource("2_aaboa")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+
+[node name="RigidBody2D" parent="." instance=ExtResource("3_nxlxt")]
+position = Vector2(315.457, 34.6029)

@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://b61h52rf5pibb"]
+
+[ext_resource type="PhysicsMaterial" uid="uid://gynkuy64aqfk" path="res://unfinished/Slide/PonyMaterial.tres" id="1_tc0vk"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="2_ky2fo"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_6e8uj"]
+radius = 56.6643
+
+[node name="RigidBody2D" type="RigidBody2D"]
+physics_material_override = ExtResource("1_tc0vk")
+
+[node name="CollisionPolygon2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_6e8uj")
+
+[node name="Sprite2D" type="Sprite2D" parent="CollisionPolygon2D"]
+position = Vector2(-0.71532, -0.205976)
+scale = Vector2(0.191071, 0.184686)
+texture = ExtResource("2_ky2fo")

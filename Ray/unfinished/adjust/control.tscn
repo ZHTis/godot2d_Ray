@@ -1,0 +1,52 @@
+[gd_scene load_steps=3 format=3 uid="uid://bjtetuih8j2t6"]
+
+[ext_resource type="Script" path="res://unfinished/adjust/Control.gd" id="1_wanoi"]
+[ext_resource type="Script" path="res://Ini_check/level_index.gd" id="2_61t8s"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_wanoi")
+
+[node name="ItemList" type="ItemList" parent="."]
+layout_mode = 1
+offset_left = 1485.0
+offset_top = 63.0
+offset_right = 1816.0
+offset_bottom = 154.0
+item_count = 3
+item_0/text = "mass"
+item_1/text = "force unit"
+item_2/text = "position"
+
+[node name="levelIndex" type="Node" parent="."]
+script = ExtResource("2_61t8s")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+offset_left = 1476.0
+offset_top = 172.0
+offset_right = 1861.0
+offset_bottom = 425.0
+
+[node name="HSlider" type="HSlider" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "pos"
+
+[node name="HSlider2" type="HSlider" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "force
+"
+
+[connection signal="value_changed" from="VBoxContainer/HSlider" to="." method="_on_h_slider_value_changed"]
+[connection signal="value_changed" from="VBoxContainer/HSlider2" to="." method="_on_h_slider_2_value_changed"]
