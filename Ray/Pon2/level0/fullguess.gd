@@ -7,7 +7,6 @@ var click_time
 func _ready():
 	get_node("/root/LevelIndex").grade = 0
 
-
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	pass
@@ -18,6 +17,5 @@ func _input(event):
 
 
 
-func _on_button_button_up():
+func _on_button_pressed():
 	get_tree().change_scene_to_file("res://Pon2/level0/level0.tscn")
-		

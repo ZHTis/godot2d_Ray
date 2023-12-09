@@ -8,8 +8,10 @@ extends Node
 @onready var button2 = $button/TextureButton2
 signal reward
 signal noreward
+signal red
 @onready var ini_time
 @onready var brick_pos
+@onready var adge = $Area2D/CollisionShape2D
 
 func _ready():
 	get_node("/root/LevelIndex").stack_grade = 0
@@ -20,10 +22,13 @@ func _ready():
 	button.set_position(Vector2(-100,100))
 	button2.set_position(Vector2(1100,100))
 	loose(num)
+	judge()
+	#real_or_fake(2)
 	$button.hide()
-	await get_tree().create_timer(3.0).timeout
+	await get_tree().create_timer(0.5).timeout
 	$button.show()
 	ini_time = Time.get_ticks_usec()
+
 
 func _input(event):
 	if event is InputEventMouseButton and event.button_index == 2 :
@@ -46,6 +51,7 @@ func build_tower(num,layer):
 		bucket.add_child(stone)
 		array.append(Vector2(x,y))
 	brick_pos =  array
+	print(brick_pos)
 
 func loose(num):
 	for i in range(1,num):
@@ -62,6 +68,12 @@ func _on_egg_entered(body):
 	if body.is_in_group("tilemap"):pass
 	else:
 		real_or_fake(2)
+
+func judge():
+	var c = $Node2D.get_child(bucket.get_child_count()-1)
+	var d = c.get_child(0).get_global_position()
+	adge.set_position(d+Vector2(105,-50))
+	$Area2D/CollisionShape2D2.set_position(d-Vector2(105,50))
 
 
 func real_or_fake(char):
@@ -129,3 +141,9 @@ func save():
 	file.store_string(JSON.stringify(dat))
 	file.store_string(",")
 	
+
+
+func _on_area_2d_body_entered(body):
+	print("enter",body)
+	real_or_fake(1)
+

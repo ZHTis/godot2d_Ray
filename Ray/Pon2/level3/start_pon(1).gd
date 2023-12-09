@@ -20,6 +20,7 @@ func _input(event):
 
 
 
-func _on_button_button_up():
+
+
+func _on_button_pressed():
 	get_tree().change_scene_to_file("res://Pon2/level3/level3.tscn")
-	

@@ -30,12 +30,49 @@ func _ready():
 	#DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
 	random_target(500)
 	random_ini()
+	physicalButtonPos()
 	ini_time = Time.get_ticks_usec()
 	print("ini_time at  ",ini_time)
 	get_node("/root/LevelIndex").pon_grade = 0
 	a.hide()
-
+	
+	
+func physicalButtonPos():
+	var tx = target.get_position().x
+	var tx2 = target2.get_position().x
+	var w = max(tx,tx2)
+	if w == tx2:
+		var s2 = Shortcut.new()
+		var x2 = InputEventKey.new()
+		x2.keycode = 65 #a
+		s2.set_events([x2])
+		target2.set_shortcut(s2)
+		$Button2/TextureButton2.set_shortcut(s2)
+	
+		var s = Shortcut.new()
+		var x = InputEventKey.new()
+		x.keycode = 76 #l
+		s.set_events([x])
+		target.set_shortcut(s)
+		$Button/TextureButton.set_shortcut(s)
+	if w == tx:
+		var s2 = Shortcut.new()
+		var x2 = InputEventKey.new()
+		x2.keycode = 76 #l
+		s2.set_events([x2])
+		target2.set_shortcut(s2)
+		$Button2/TextureButton2.set_shortcut(s2)
+	
+		var s = Shortcut.new()
+		var x = InputEventKey.new()
+		x.keycode = 65 #a
+		s.set_events([x])
+		target.set_shortcut(s)
+		$Button/TextureButton.set_shortcut(s)
+		
+		
 func Button2_pos():
+	target2.shortcut.get_as_text()
 	if target2.get_position().x >1920 and target.get_position().x <1920:
 		target2.set_position(Vector2(pos3,h))
 	if target2.get_position().x < 0 and target.get_position().x > 0:
@@ -118,6 +155,8 @@ func _input(event):
 		
 
 func _on_texture_button_pressed():
+	hide()
+	await get_tree().create_timer(0.5).timeout
 	get_node("/root/LevelIndex").pon_grade =1
 	get_tree().change_scene_to_file('res://Pon2/level0/fullguess.tscn')
 	save()
@@ -125,6 +164,8 @@ func _on_texture_button_pressed():
 
 
 func _on_texture_button_2_pressed():
+	hide()
+	await get_tree().create_timer(0.5).timeout
 	get_tree().change_scene_to_file('res://Pon2/level0/fullguess.tscn')
 
 

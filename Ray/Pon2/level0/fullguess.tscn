@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://cjmqiq50xb6h6"]
+[gd_scene load_steps=4 format=3 uid="uid://cjmqiq50xb6h6"]
 
 [ext_resource type="Script" path="res://Pon2/level0/fullguess.gd" id="1_k3c8e"]
 [ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="2_qaycp"]
+[ext_resource type="Shortcut" uid="uid://di7duaoufub7q" path="res://Assets/&button.tres" id="2_wrqn0"]
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_k3c8e")
@@ -21,10 +22,11 @@ grow_vertical = 2
 scale = Vector2(1.7, 1.7)
 size_flags_horizontal = 4
 size_flags_vertical = 6
+shortcut = ExtResource("2_wrqn0")
 icon = ExtResource("2_qaycp")
 flat = true
 icon_alignment = 1
 
 [node name="Timer" type="Timer" parent="Button"]
 
-[connection signal="button_up" from="Button" to="." method="_on_button_button_up"]
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

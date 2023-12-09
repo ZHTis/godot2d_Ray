@@ -56,7 +56,7 @@ func _button6():
 
 func _input(event):
 	if event.is_action_pressed("ini_check1"):
-		_button5()
+		_button3()
 	if event.is_action_pressed("ini_check2"):
 		_button()
 	if event.is_action_pressed("ini_check3"):
