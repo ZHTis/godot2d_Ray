@@ -1,0 +1,63 @@
+[gd_scene load_steps=7 format=3 uid="uid://dtjb3col7v8tx"]
+
+[ext_resource type="Script" path="res://start0/start2_main.gd" id="1_5i4ec"]
+[ext_resource type="Texture2D" uid="uid://cfgwigqfiltub" path="res://Assets/pngwing3.com.png" id="2_itfys"]
+[ext_resource type="Shortcut" uid="uid://df5wv07ukubbs" path="res://Assets/lbutton.tres" id="2_w64ub"]
+[ext_resource type="Script" path="res://start0/Reward_test.cs" id="3_mytgl"]
+[ext_resource type="Texture2D" uid="uid://l7eymfs0japv" path="res://Assets/pngwing.com.png" id="4_hpfgk"]
+[ext_resource type="Shortcut" uid="uid://bdqwlbxe74iv2" path="res://Assets/abutton.tres" id="5_xcps3"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_5i4ec")
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -57.0
+offset_top = 71.0
+offset_right = 849.0
+offset_bottom = 924.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.2, 1.2)
+size_flags_horizontal = 4
+size_flags_vertical = 6
+shortcut = ExtResource("2_w64ub")
+icon = ExtResource("2_itfys")
+flat = true
+
+[node name="Timer" type="Timer" parent="Button"]
+
+[node name="fluid" type="Node2D" parent="Button"]
+position = Vector2(-242.353, -2.35294)
+scale = Vector2(0.588235, 0.588235)
+script = ExtResource("3_mytgl")
+
+[node name="Button2" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 1072.0
+offset_top = 246.0
+offset_right = 2104.0
+offset_bottom = 1278.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.6, 0.6)
+size_flags_horizontal = 4
+size_flags_vertical = 6
+shortcut = ExtResource("5_xcps3")
+icon = ExtResource("4_hpfgk")
+flat = true
+
+[node name="Timer" type="Timer" parent="Button2"]
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button" to="Button/fluid" method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="Button/fluid" method="_on_button_2_pressed"]

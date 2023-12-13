@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702104028
+::res://::1702463918
 export_presets.cfg::TextFile::-1::1702099412::0::1::::<><>::
 icon.svg::CompressedTexture2D::5247414683420067297::1701675054::1702104006::1::::<><>::
 ::res://addons/::1701682146
@@ -155,11 +155,12 @@ stack2.gd::GDScript::-1::1702100866::0::1::::<>Node<>::
 stack2.tscn::PackedScene::3602592308932347856::1702104006::0::1::::<><>::res://Shrek/stack2.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>uid://cfgwigqfiltub::::res://Assets/pngwing3.com.png<>res://Shrek/reward_stack.cs
 stone.gd::GDScript::-1::1698241358::0::1::::<>Node2D<>::
 stone.tscn::PackedScene::6470112401640600476::1702101448::0::1::::<><>::res://Shrek/stone.gd
-::res://start0/::1702101448
+::res://start0/::1702464010
 0_README.gd::GDScript::-1::1696938156::0::1::::<>Node<>::
 Reward_test.cs::CSharpScript::-1::1697765827::0::1::::<><>::
 scene.gd::GDScript::-1::1697182908::0::1::::<>Node2D<>::
 scene.tscn::PackedScene::2500763645517522738::1702101448::0::1::::<><>::res://start0/scene.gd
+start2.tscn::PackedScene::8511540326427938729::1702464010::0::1::::<><>::res://start0/start_main.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
 start.tscn::PackedScene::5093495876245808024::1702101448::0::1::::<><>::res://start0/start_main.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
 startwash.gd::GDScript::-1::1698324461::0::1::::<>Node2D<>::
 startwash.tscn::PackedScene::5714006754341669579::1702101448::0::1::::<><>::res://start0/startwash.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs

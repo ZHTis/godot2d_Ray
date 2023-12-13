@@ -1,0 +1,95 @@
+[gd_scene load_steps=8 format=3 uid="uid://tkdyajmoqejh"]
+
+[ext_resource type="Script" path="res://Pon2/level0/level0.gd" id="1_mqmtc"]
+[ext_resource type="Script" path="res://Pon2/Pon.gd" id="3_1mnoh"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="4_ff3e2"]
+[ext_resource type="PackedScene" uid="uid://v44ine65ib05" path="res://Pon2/tile_map.tscn" id="5_xhgcm"]
+[ext_resource type="Script" path="res://Pon2/Reward.cs" id="6_y4y07"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_w4hmv"]
+bounce = 0.31
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_gmny3"]
+radius = 86.0058
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_mqmtc")
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+physics_material_override = SubResource("PhysicsMaterial_w4hmv")
+script = ExtResource("3_1mnoh")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D"]
+shape = SubResource("CircleShape2D_gmny3")
+
+[node name="Sprite2D" type="Sprite2D" parent="RigidBody2D/CollisionShape2D"]
+scale = Vector2(0.3, 0.277)
+texture = ExtResource("4_ff3e2")
+
+[node name="TileMap" parent="." instance=ExtResource("5_xhgcm")]
+
+[node name="Button" type="Button" parent="."]
+self_modulate = Color(1, 1, 1, 0)
+offset_right = 2415.0
+offset_bottom = 3020.0
+scale = Vector2(0.082, 0.082)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+keep_pressed_outside = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="TextureButton" type="TextureButton" parent="Button"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1207.5
+offset_top = -1410.0
+offset_right = 1192.5
+offset_bottom = 990.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("4_ff3e2")
+stretch_mode = 0
+
+[node name="Button2" type="Button" parent="."]
+self_modulate = Color(1, 1, 1, 0)
+offset_right = 2415.0
+offset_bottom = 3020.0
+scale = Vector2(0.082, 0.082)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+icon_alignment = 1
+expand_icon = true
+
+[node name="TextureButton2" type="TextureButton" parent="Button2"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -1207.5
+offset_top = -1410.0
+offset_right = 1192.5
+offset_bottom = 990.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("4_ff3e2")
+stretch_mode = 0
+
+[node name="Fluid" type="Node2D" parent="."]
+position = Vector2(-100, -15.5)
+script = ExtResource("6_y4y07")
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button" to="Fluid" method="_on_button_pressed"]
+[connection signal="pressed" from="Button/TextureButton" to="." method="_on_texture_button_pressed"]
+[connection signal="pressed" from="Button/TextureButton" to="Fluid" method="_on_texture_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_2_pressed"]
+[connection signal="pressed" from="Button2" to="Fluid" method="_on_button_2_pressed"]
+[connection signal="pressed" from="Button2/TextureButton2" to="." method="_on_texture_button_2_pressed"]
+[connection signal="pressed" from="Button2/TextureButton2" to="Fluid" method="_on_texture_button_2_pressed"]

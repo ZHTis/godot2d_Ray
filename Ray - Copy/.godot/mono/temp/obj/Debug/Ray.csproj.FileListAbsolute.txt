@@ -1,0 +1,80 @@
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.csproj.AssemblyReference.cache
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.GeneratedMSBuildEditorConfig.editorconfig
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.AssemblyInfoInputs.cache
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.AssemblyInfo.cs
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.csproj.CoreCompileInputs.cache
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/Ray.deps.json
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/Ray.runtimeconfig.json
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/Ray.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/Ray.pdb
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/GodotSharp.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/System.IO.Ports.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/unix/lib/net6.0/System.IO.Ports.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/bin/Debug/runtimes/win/lib/net6.0/System.IO.Ports.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.csproj.CopyComplete
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/refint/Ray.dll
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.pdb
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/Ray.genruntimeconfig.cache
+A:/GameUnion/godot2dSpace/Ray/.godot/mono/temp/obj/Debug/ref/Ray.dll
+/Users/rubythurs/Documents/gameGodot/RAy/godot2d_Ray/Ray/.godot/mono/temp/obj/Debug/Ray.csproj.AssemblyReference.cache
+/Users/rubythurs/Documents/gameGodot/RAy/godot2d_Ray/Ray/.godot/mono/temp/obj/Debug/Ray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubythurs/Documents/gameGodot/RAy/godot2d_Ray/Ray/.godot/mono/temp/obj/Debug/Ray.AssemblyInfoInputs.cache
+/Users/rubythurs/Documents/gameGodot/RAy/godot2d_Ray/Ray/.godot/mono/temp/obj/Debug/Ray.AssemblyInfo.cs
+/Users/rubythurs/Documents/gameGodot/RAy/godot2d_Ray/Ray/.godot/mono/temp/obj/Debug/Ray.csproj.CoreCompileInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\Ray.deps.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\Ray.runtimeconfig.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\GodotSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\Debug\runtimes\win\lib\net6.0\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.csproj.AssemblyReference.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.GeneratedMSBuildEditorConfig.editorconfig
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.AssemblyInfoInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.AssemblyInfo.cs
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.csproj.CoreCompileInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.csproj.CopyComplete
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\refint\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\Ray.genruntimeconfig.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\Debug\ref\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\Ray.deps.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\Ray.runtimeconfig.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\GodotSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\Debug\runtimes\win\lib\net6.0\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.csproj.AssemblyReference.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.GeneratedMSBuildEditorConfig.editorconfig
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.AssemblyInfoInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.AssemblyInfo.cs
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.csproj.CoreCompileInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.csproj.CopyComplete
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\refint\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\Ray.genruntimeconfig.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\Debug\ref\Ray.dll

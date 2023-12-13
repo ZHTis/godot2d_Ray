@@ -50,7 +50,7 @@ func _button4():
 	get_tree().change_scene_to_file("res://start0/startwash.tscn")
 
 func _button5():
-	get_tree().change_scene_to_file("res://start0/start.tscn")
+	get_tree().change_scene_to_file("res://start0/start2.tscn")
 func _button6():
 	get_tree().change_scene_to_file("res://Pon2/level3/start_pon(1).tscn")
 

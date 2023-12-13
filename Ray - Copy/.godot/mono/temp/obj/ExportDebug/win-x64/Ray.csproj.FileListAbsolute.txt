@@ -1,0 +1,478 @@
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.deps.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.runtimeconfig.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\GodotSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.CSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.Core.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Registry.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.AppContext.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Buffers.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Concurrent.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Immutable.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.NonGeneric.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Specialized.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Annotations.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.DataAnnotations.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.EventBasedAsync.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.TypeConverter.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Configuration.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Console.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Core.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.Common.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.DataSetExtensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Contracts.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Debug.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.DiagnosticSource.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.FileVersionInfo.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Process.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.StackTrace.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tools.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TraceSource.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tracing.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Dynamic.Runtime.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Asn1.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Calendars.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Brotli.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.FileSystem.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.ZipFile.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.DriveInfo.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Watcher.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.IsolatedStorage.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.MemoryMappedFiles.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.UnmanagedMemoryStream.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Expressions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Parallel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Queryable.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Memory.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.HttpListener.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Mail.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NameResolution.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NetworkInformation.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Ping.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Quic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Requests.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Security.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.ServicePoint.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Sockets.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebClient.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebHeaderCollection.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebProxy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.Client.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.Vectors.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ObjectModel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.CoreLib.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.DataContractSerialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Uri.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.DispatchProxy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.ILGeneration.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.Lightweight.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Metadata.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.TypeExtensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Reader.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.ResourceManager.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Writer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.VisualC.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Handles.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Intrinsics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Loader.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Numerics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Formatters.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Claims.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Algorithms.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Cng.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Csp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Encoding.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.OpenSsl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.X509Certificates.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.Windows.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.SecureString.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceModel.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceProcess.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.CodePages.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encodings.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.RegularExpressions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Channels.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Overlapped.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Dataflow.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Parallel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Thread.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.ThreadPool.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Timer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.Local.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.ValueTuple.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.HttpUtility.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Windows.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.ReaderWriter.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Serialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.XDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlSerializer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\WindowsBase.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\mscorlib.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\netstandard.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Native.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-console-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-console-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-debug-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l2-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-handle-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-heap-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-localization-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-memory-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-profile-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-string-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-synch-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-synch-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-util-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-math-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-private-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-process-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-string-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-time-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\clretwrc.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\clrjit.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\coreclr.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\createdump.exe
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\dbgshim.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\hostfxr.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\hostpolicy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\mscordbi.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\mscorrc.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\msquic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\bin\ExportDebug\win-x64\ucrtbase.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.AssemblyReference.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.GeneratedMSBuildEditorConfig.editorconfig
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.AssemblyInfoInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.AssemblyInfo.cs
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.CoreCompileInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.CopyComplete
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\refint\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.genruntimeconfig.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray\.godot\mono\temp\obj\ExportDebug\win-x64\ref\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.deps.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.runtimeconfig.json
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\GodotSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Ports.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.CSharp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.Core.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.VisualBasic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.Win32.Registry.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.AppContext.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Buffers.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Concurrent.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Immutable.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.NonGeneric.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.Specialized.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Collections.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Annotations.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.DataAnnotations.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.EventBasedAsync.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.TypeConverter.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ComponentModel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Configuration.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Console.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Core.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.Common.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.DataSetExtensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Data.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Contracts.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Debug.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.DiagnosticSource.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.FileVersionInfo.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Process.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.StackTrace.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tools.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.TraceSource.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Diagnostics.Tracing.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Drawing.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Dynamic.Runtime.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Formats.Asn1.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Calendars.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Globalization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Brotli.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.FileSystem.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.ZipFile.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.DriveInfo.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.Watcher.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.FileSystem.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.IsolatedStorage.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.MemoryMappedFiles.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Pipes.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.UnmanagedMemoryStream.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Expressions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Parallel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.Queryable.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Memory.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Http.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.HttpListener.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Mail.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NameResolution.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.NetworkInformation.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Ping.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Quic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Requests.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Security.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.ServicePoint.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.Sockets.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebClient.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebHeaderCollection.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebProxy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.Client.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.WebSockets.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Net.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.Vectors.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Numerics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ObjectModel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.CoreLib.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.DataContractSerialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Uri.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Private.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.DispatchProxy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.ILGeneration.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.Lightweight.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Emit.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Metadata.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.TypeExtensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Reflection.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Reader.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.ResourceManager.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Resources.Writer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.CompilerServices.VisualC.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Handles.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.InteropServices.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Intrinsics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Loader.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Numerics.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Formatters.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.Serialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Runtime.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.AccessControl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Claims.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Algorithms.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Cng.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Csp.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Encoding.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.OpenSsl.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.Primitives.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Cryptography.X509Certificates.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.Windows.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.Principal.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.SecureString.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Security.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceModel.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ServiceProcess.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.CodePages.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encoding.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Encodings.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.Json.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Text.RegularExpressions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Channels.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Overlapped.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Dataflow.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Extensions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.Parallel.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Tasks.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Thread.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.ThreadPool.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.Timer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Threading.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.Local.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Transactions.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.ValueTuple.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.HttpUtility.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Web.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Windows.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Linq.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.ReaderWriter.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.Serialization.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.XDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XPath.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlDocument.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.XmlSerializer.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.Xml.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\WindowsBase.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\mscorlib.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\netstandard.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\System.IO.Compression.Native.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-console-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-console-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-debug-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-file-l2-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-handle-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-heap-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-localization-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-memory-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-profile-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-string-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-synch-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-synch-l1-2-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-core-util-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-math-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-private-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-process-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-string-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-time-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\clretwrc.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\clrjit.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\coreclr.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\createdump.exe
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\dbgshim.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\hostfxr.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\hostpolicy.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\mscordbi.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\mscorrc.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\msquic.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\bin\ExportDebug\win-x64\ucrtbase.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.AssemblyReference.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.GeneratedMSBuildEditorConfig.editorconfig
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.AssemblyInfoInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.AssemblyInfo.cs
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.CoreCompileInputs.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.csproj.CopyComplete
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\refint\Ray.dll
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.pdb
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\Ray.genruntimeconfig.cache
+A:\GameUnion\godot2dSpace\godot2d_Ray\Ray - Copy\.godot\mono\temp\obj\ExportDebug\win-x64\ref\Ray.dll

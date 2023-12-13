@@ -1,0 +1,32 @@
+[gd_scene load_steps=4 format=3 uid="uid://dwo3he7a8ytig"]
+
+[ext_resource type="Script" path="res://Pon2/level3/start_pon(1).gd" id="1_ombsb"]
+[ext_resource type="Shortcut" uid="uid://di7duaoufub7q" path="res://Assets/&button.tres" id="2_b35o7"]
+[ext_resource type="Texture2D" uid="uid://ooxyflrhc1wq" path="res://Assets/pngwing.com (1).png" id="2_yyvvc"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_ombsb")
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 412.0
+offset_top = 3.99999
+offset_right = 1019.0
+offset_bottom = 612.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.7, 1.7)
+size_flags_horizontal = 4
+size_flags_vertical = 6
+shortcut = ExtResource("2_b35o7")
+icon = ExtResource("2_yyvvc")
+flat = true
+icon_alignment = 1
+
+[node name="Timer" type="Timer" parent="Button"]
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
