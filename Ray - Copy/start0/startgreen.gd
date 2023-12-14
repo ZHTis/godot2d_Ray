@@ -3,14 +3,18 @@ extends Node2D
 var trials
 var click_pos
 var click_time
+var AorL 
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	get_node("/root/LevelIndex").grade = 0
+	AorL = randi_range(0,1)
+	redORgreen()
 
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	pass
+func redORgreen():
+	if AorL ==1:
+		$Button.hide()
+	if AorL ==0:
+		$Button2.hide()
 
 func _input(event):
 	if event.is_action_pressed("ui_cancel"):  # escape 

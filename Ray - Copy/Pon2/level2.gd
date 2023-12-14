@@ -156,16 +156,14 @@ func _on_texture_button_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
 	save()
-	get_tree().change_scene_to_file("res://Pon2/start_pon.tscn")
-#	get_tree().change_scene_to_file("res://Pon2/level2.tscn")
+	get_tree().change_scene_to_file("res://Pon2/level2.tscn")
 
 
 
 func _on_texture_button_2_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
-	get_tree().change_scene_to_file("res://Pon2/start_pon.tscn")
-#	get_tree().change_scene_to_file("res://Pon2/level2.tscn")
+	get_tree().change_scene_to_file("res://Pon2/level2.tscn")
 		
 func _on_control_slidee(val):
 	if a.is_freeze_enabled() == true:
@@ -189,7 +187,6 @@ func trialdata():
 		"ini_pos": get_node("/root/LevelIndex").ini_pos,
 		"ini_time": ini_time,
 		"ini_vel":get_node("/root/LevelIndex").vel,
-		"click_pos":get_node("/root/LevelIndex").click_pos,
 		"click_time": get_node("/root/LevelIndex").click_time,
 		"ball_now_pos" : ball_now_pos,
 		"choice1": get_node("/root/LevelIndex").choice1,

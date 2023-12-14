@@ -134,8 +134,8 @@ func random_ini():
 		target2.set_position(choice2)
 		get_node("/root/LevelIndex").ini_pos = ini_pos
 		get_node("/root/LevelIndex").vel = Vector2(vel_x,vel_y)
-		
-		
+			
+			
 	if seed == 2:
 		a.set_position(ini_pos2)
 		var vel_x2 = vel_x * (-1)
@@ -183,14 +183,14 @@ func _on_texture_button_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
 	save()
-	get_tree().change_scene_to_file("res://Pon2/level3/start_pon(1).tscn")
+	get_tree().change_scene_to_file("res://Pon2/level3/level3.tscn")
 	
 
 
 func _on_texture_button_2_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
-	get_tree().change_scene_to_file("res://Pon2/level3/start_pon(1).tscn")
+	get_tree().change_scene_to_file("res://Pon2/level3/level3.tscn")
 
 
 

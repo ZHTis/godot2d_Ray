@@ -158,7 +158,7 @@ func _on_texture_button_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
 	get_node("/root/LevelIndex").pon_grade =1
-	get_tree().change_scene_to_file('res://Pon2/level0/fullguess.tscn')
+	get_tree().change_scene_to_file('res://Pon2/level0/level0.tscn')
 	save()
 
 
@@ -166,7 +166,7 @@ func _on_texture_button_pressed():
 func _on_texture_button_2_pressed():
 	hide()
 	await get_tree().create_timer(0.5).timeout
-	get_tree().change_scene_to_file('res://Pon2/level0/fullguess.tscn')
+	get_tree().change_scene_to_file('res://Pon2/level0/level0.tscn')
 
 
 

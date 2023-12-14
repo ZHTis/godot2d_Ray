@@ -1,12 +1,8 @@
-res://start0/start2.tscn
+res://unfinished/Slide/slide.tscn
 res://Shrek/stack2.gd
 res://Assets/abutton.tres
 res://Assets/lbutton.tres
 res://Assets/&button.tres
-res://Ini_check/Control.gd
-res://start0/scene.gd
-res://start0/start2_main.gd
-res://unfinished/Slide/slide.tscn
 res://Pon2/level3/level3.tscn
 res://Ini_check/control.tscn
 res://unfinished/satck/satck.tscn
@@ -24,6 +20,4 @@ res://Pon2/level0/fullguess.tscn
 res://Pon2/level0/level0.tscn
 res://Pon2/level3/start_pon(1).tscn
 res://Pon2/start_pon.tscn
-res://Pon2/Reward.cs
-res://Shrek/reward_stack.cs
-res://start0/Reward_test.cs
+res://start0/start2.tscn

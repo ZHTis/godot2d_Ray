@@ -16,7 +16,7 @@ func trytofit_draw():
 	shape.set_size(size_)
 	print(get_shape().get_size())
 	set_position(pos)
-
+	
 func _draw():
 	set_position(pos)
 	print(pos)

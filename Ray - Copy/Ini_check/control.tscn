@@ -50,3 +50,6 @@ layout_mode = 2
 
 [node name="Button6" type="Button" parent="VBoxContainer"]
 layout_mode = 2
+
+[node name="Button7" type="Button" parent="VBoxContainer"]
+layout_mode = 2

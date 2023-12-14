@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702463918
+::res://::1702540258
 export_presets.cfg::TextFile::-1::1702099412::0::1::::<><>::
 icon.svg::CompressedTexture2D::5247414683420067297::1701675054::1702104006::1::::<><>::
 ::res://addons/::1701682146
@@ -100,16 +100,16 @@ tilesetter_blob.tres::Resource::4405117891217194499::1688526479::0::1::::<><>::r
 tilesetter_wang.tres::Resource::991695917674562364::1688526479::0::1::::<><>::res://addons/tile_bit_tools/core/template_bit_data.gd
 tilesetter_wang_3-terrain.tres::Resource::7211103745452830598::1688526479::0::1::::<><>::res://addons/tile_bit_tools/core/template_bit_data.gd
 tilesetter_wang_3-terrain_transitions.tres::Resource::5052312722630370972::1688526479::0::1::::<><>::res://addons/tile_bit_tools/core/template_bit_data.gd
-::res://Assets/::1702104006
+::res://Assets/::1702464254
 580b585b2edbce24c47b2b90.png::CompressedTexture2D::3370261852838173210::1688526479::1698655555::1::::<><>::
-&button.tres::Shortcut::7787050777713312708::1702100866::0::1::::<><>::
-abutton.tres::Shortcut::2631372764525476653::1702100866::0::1::::<><>::
+&button.tres::Shortcut::7787050777713312708::1702464254::0::1::::<><>::
+abutton.tres::Shortcut::2631372764525476653::1702464254::0::1::::<><>::
 apple.png::CompressedTexture2D::6692250176065956429::1688526479::1698655555::1::::<><>::
 apple_01.png::CompressedTexture2D::7276276966128399363::1688526479::1698655555::1::::<><>::
 bowl.png::CompressedTexture2D::6220170815346546875::1688526479::1698655555::1::::<><>::
 icon.png::CompressedTexture2D::1187634380125816275::1688526479::1698655554::1::::<><>::
 icon.svg::CompressedTexture2D::5190317590589326226::1688526479::1698655554::1::::<><>::
-lbutton.tres::Shortcut::7573512240844477432::1702100866::0::1::::<><>::
+lbutton.tres::Shortcut::7573512240844477432::1702464254::0::1::::<><>::
 pngwing3.com.png::CompressedTexture2D::5137522252388118381::1702104006::1698655554::1::::<><>::
 pngwing.com (1).png::CompressedTexture2D::1012984729768101700::1688526479::1698655554::1::::<><>::
 pngwing.com.png::CompressedTexture2D::838423734028876523::1688526479::1698655555::1::::<><>::
@@ -120,77 +120,78 @@ ZCOOLQingKeHuangYou-Regular.ttf::FontFile::4648008749640381519::1688526479::1698
 ::res://Assets/ZCOOL_QingKe_HuangYou/::1701682146
 OFL.txt::TextFile::-1::1688526479::0::1::::<><>::
 ZCOOLQingKeHuangYou-Regular.ttf::FontFile::8749202965642527747::1688526479::1698655554::1::::<><>::
-::res://Ini_check/::1702101448
-click.tscn::PackedScene::2594533977742560031::1702101448::0::1::::<><>::res://Ini_check/ini_check.gd<>uid://dmpm3u8hck0hn::::res://Ini_check/control.tscn
-Control.gd::GDScript::-1::1702098895::0::1::::<>Control<>::
-control.tscn::PackedScene::8033273548955814511::1702101448::0::1::::<><>::res://Ini_check/Control.gd
+::res://Ini_check/::1702466776
+click.tscn::PackedScene::2594533977742560031::1702466776::0::1::::<><>::res://Ini_check/ini_check.gd<>uid://dmpm3u8hck0hn::::res://Ini_check/control.tscn
+Control.gd::GDScript::-1::1702464254::0::1::::<>Control<>::
+control.tscn::PackedScene::8033273548955814511::1702466776::0::1::::<><>::res://Ini_check/Control.gd
 ini_check.gd::GDScript::-1::1701675054::0::1::::<>Node2D<>::
 level_index.gd::GDScript::-1::1701675054::0::1::::<>Node<>::
-::res://Pon2/::1702101448
+::res://Pon2/::1702466776
 level2.gd::GDScript::-1::1702101290::0::1::::<>Node2D<>::
-level2.tscn::PackedScene::414613367338334161::1702101448::0::1::::<><>::res://Pon2/level2.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://Pon2/Pon.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/Reward.cs
+level2.tscn::PackedScene::414613367338334161::1702466776::0::1::::<><>::res://Pon2/level2.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://Pon2/Pon.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/Reward.cs
 Pon2_README.gd::GDScript::-1::1697179448::0::1::::<>Node<>::
 Pon.gd::GDScript::-1::1697075649::0::1::::<>RigidBody2D<>::
 Reward.cs::CSharpScript::-1::1697182199::0::1::::<><>::
 start_pon.gd::GDScript::-1::1701933747::0::1::::<>Node2D<>::
-start_pon.tscn::PackedScene::5111632929391512662::1702101448::0::1::::<><>::res://Pon2/start_pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://di7duaoufub7q::::res://Assets/&button.tres
-tile_map.tscn::PackedScene::1535608440839554420::1702101448::0::1::::<><>::uid://c8jir47kkrfm::::res://addons/tile_bit_tools/examples/godot3_2x2/godot3_2x2.png
-::res://Pon2/level0/::1702104006
+start_pon.tscn::PackedScene::5111632929391512662::1702466776::0::1::::<><>::res://Pon2/start_pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://di7duaoufub7q::::res://Assets/&button.tres
+tile_map.tscn::PackedScene::1535608440839554420::1702466776::0::1::::<><>::uid://c8jir47kkrfm::::res://addons/tile_bit_tools/examples/godot3_2x2/godot3_2x2.png
+::res://Pon2/level0/::1702466776
 fullguess.gd::GDScript::-1::1702101434::0::1::::<>Node2D<>::
-fullguess.tscn::PackedScene::5430300139297144993::1702104006::0::1::::<><>::res://Pon2/level0/fullguess.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://di7duaoufub7q::::res://Assets/&button.tres
+fullguess.tscn::PackedScene::5430300139297144993::1702466776::0::1::::<><>::res://Pon2/level0/fullguess.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://di7duaoufub7q::::res://Assets/&button.tres
 level0.gd::GDScript::-1::1702100814::0::1::::<>Node2D<>::
-level0.tscn::PackedScene::1354456831163037289::1702101448::0::1::::<><>::res://Pon2/level0/level0.gd<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/Pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>res://Pon2/Reward.cs
-::res://Pon2/level3/::1702101448
+level0.tscn::PackedScene::1354456831163037289::1702466776::0::1::::<><>::res://Pon2/level0/level0.gd<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/Pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>res://Pon2/Reward.cs
+::res://Pon2/level3/::1702466776
 CollisionShape2D.gd::GDScript::-1::1697177396::0::1::::<>CollisionShape2D<>::
 leaf_.gd::GDScript::-1::1697169334::0::1::::<>Area2D<>::
 level3.gd::GDScript::-1::1702101434::0::1::::<>Node2D<>::
-level3.tscn::PackedScene::5790049682653336963::1702101448::0::1::::<><>::res://Pon2/level3/level3.gd<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/level3/Pon(3).gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>res://Pon2/Reward.cs<>uid://bdqwlbxe74iv2::::res://Assets/abutton.tres<>uid://df5wv07ukubbs::::res://Assets/lbutton.tres<>res://Pon2/level3/CollisionShape2D.gd
+level3.tscn::PackedScene::5790049682653336963::1702466776::0::1::::<><>::res://Pon2/level3/level3.gd<>uid://hklafm3trk0h::::res://unfinished/adjust/pon_physics_material.tres<>res://Pon2/level3/Pon(3).gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>res://Pon2/Reward.cs<>uid://bdqwlbxe74iv2::::res://Assets/abutton.tres<>uid://df5wv07ukubbs::::res://Assets/lbutton.tres<>res://Pon2/level3/CollisionShape2D.gd
 pon3_README.gd::GDScript::-1::1697179050::0::1::::<>Node<>::
 Pon(3).gd::GDScript::-1::1701675054::0::1::::<>RigidBody2D<>::
 start_pon(1).gd::GDScript::-1::1701933747::0::1::::<>Node2D<>::
-start_pon(1).tscn::PackedScene::8734030735599854258::1702101448::0::1::::<><>::res://Pon2/level3/start_pon(1).gd<>uid://di7duaoufub7q::::res://Assets/&button.tres<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png
-::res://Shrek/::1702104006
+start_pon(1).tscn::PackedScene::8734030735599854258::1702466776::0::1::::<><>::res://Pon2/level3/start_pon(1).gd<>uid://di7duaoufub7q::::res://Assets/&button.tres<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png
+::res://Shrek/::1702466776
 reward_stack.cs::CSharpScript::-1::1701944014::0::1::::<><>::
-stack2.gd::GDScript::-1::1702100866::0::1::::<>Node<>::
-stack2.tscn::PackedScene::3602592308932347856::1702104006::0::1::::<><>::res://Shrek/stack2.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>uid://cfgwigqfiltub::::res://Assets/pngwing3.com.png<>res://Shrek/reward_stack.cs
+stack2.gd::GDScript::-1::1702464254::0::1::::<>Node<>::
+stack2.tscn::PackedScene::3602592308932347856::1702466776::0::1::::<><>::res://Shrek/stack2.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn<>uid://cfgwigqfiltub::::res://Assets/pngwing3.com.png<>res://Shrek/reward_stack.cs
 stone.gd::GDScript::-1::1698241358::0::1::::<>Node2D<>::
-stone.tscn::PackedScene::6470112401640600476::1702101448::0::1::::<><>::res://Shrek/stone.gd
-::res://start0/::1702464010
+stone.tscn::PackedScene::6470112401640600476::1702466776::0::1::::<><>::res://Shrek/stone.gd
+::res://start0/::1702466882
 0_README.gd::GDScript::-1::1696938156::0::1::::<>Node<>::
-Reward_test.cs::CSharpScript::-1::1697765827::0::1::::<><>::
-scene.gd::GDScript::-1::1697182908::0::1::::<>Node2D<>::
-scene.tscn::PackedScene::2500763645517522738::1702101448::0::1::::<><>::res://start0/scene.gd
-start2.tscn::PackedScene::8511540326427938729::1702464010::0::1::::<><>::res://start0/start_main.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
-start.tscn::PackedScene::5093495876245808024::1702101448::0::1::::<><>::res://start0/start_main.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
+Reward_test.cs::CSharpScript::-1::1702466759::0::1::::<><>::
+scene.gd::GDScript::-1::1702466625::0::1::::<>Node2D<>::
+scene.tscn::PackedScene::2500763645517522738::1702466776::0::1::::<><>::res://start0/scene.gd
+start2.tscn::PackedScene::8511540326427938729::1702466882::0::1::::<><>::res://start0/start2_main.gd<>uid://cfgwigqfiltub::::res://Assets/pngwing3.com.png<>uid://df5wv07ukubbs::::res://Assets/lbutton.tres<>res://start0/Reward_test.cs<>uid://l7eymfs0japv::::res://Assets/pngwing.com.png<>uid://bdqwlbxe74iv2::::res://Assets/abutton.tres
+start2_main.gd::GDScript::-1::1702466339::0::1::::<>Node2D<>::
+start.tscn::PackedScene::5093495876245808024::1702466776::0::1::::<><>::res://start0/start_main.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
 startwash.gd::GDScript::-1::1698324461::0::1::::<>Node2D<>::
-startwash.tscn::PackedScene::5714006754341669579::1702101448::0::1::::<><>::res://start0/startwash.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
+startwash.tscn::PackedScene::5714006754341669579::1702466776::0::1::::<><>::res://start0/startwash.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>res://start0/Reward_test.cs
 start_main.gd::GDScript::-1::1697179911::0::1::::<>Node2D<>::
 ::res://unfinished/::1701682146
-::res://unfinished/adjust/::1702101448
+::res://unfinished/adjust/::1702466776
 Button.gd::GDScript::-1::1689220015::0::1::::<>Button<>::
 Control.gd::GDScript::-1::1689158219::0::1::::<>Control<>::
-control.tscn::PackedScene::3057621315005758025::1702101448::0::1::::<><>::res://unfinished/adjust/Control.gd<>res://Ini_check/level_index.gd
+control.tscn::PackedScene::3057621315005758025::1702466776::0::1::::<><>::res://unfinished/adjust/Control.gd<>res://Ini_check/level_index.gd
 curcus.gd::GDScript::-1::1691579923::0::1::::<>Node2D<>::
 level_.gd::GDScript::-1::1701676117::0::1::::<>Node2D<>::
-level_.tscn::PackedScene::8769128918578321812::1702101448::0::1::::<><>::res://unfinished/adjust/level_.gd<>res://unfinished/adjust/curcus.gd<>res://unfinished/adjust/set_Pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://bjtetuih8j2t6::::res://unfinished/adjust/control.tscn<>res://start0/Reward_test.cs<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn
+level_.tscn::PackedScene::8769128918578321812::1702466776::0::1::::<><>::res://unfinished/adjust/level_.gd<>res://unfinished/adjust/curcus.gd<>res://unfinished/adjust/set_Pon.gd<>uid://ooxyflrhc1wq::::res://Assets/pngwing.com (1).png<>uid://bjtetuih8j2t6::::res://unfinished/adjust/control.tscn<>res://start0/Reward_test.cs<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn
 pon_physics_material.tres::PhysicsMaterial::512633852379922105::1689580558::0::1::::<><>::
 set_Pon.gd::GDScript::-1::1697179448::0::1::::<>RigidBody2D<>::
 ::res://unfinished/joystick/::1701682146
 joystick_pon.gd::GDScript::-1::1692692551::0::1::::<>Node<>::
 level_with_joystick.tscn::PackedScene::4820900578794397326::1697007066::0::1::::<><>::res://unfinished/joystick/joystick_pon.gd<>uid://ooxyflrhc1wq
-::res://unfinished/satck/::1702101448
+::res://unfinished/satck/::1702466776
 satck.gd::GDScript::-1::1701675054::0::1::::<>Node2D<>::
-satck.tscn::PackedScene::5647201464880816422::1702101448::0::1::::<><>::res://unfinished/satck/satck.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn
+satck.tscn::PackedScene::5647201464880816422::1702466776::0::1::::<><>::res://unfinished/satck/satck.gd<>uid://v44ine65ib05::::res://Pon2/tile_map.tscn
 stone_.gd::GDScript::-1::1698206771::0::1::::<>Node2D<>::
 stone_.tscn::PackedScene::2987622775700911774::1698206785::0::1::::<><>::res://Shrek/stone.gd
-::res://unfinished/Slide/::1702101448
+::res://unfinished/Slide/::1702466776
 Pony.tscn::PackedScene::4616428695504166267::1696938385::0::1::::<><>::uid://gynkuy64aqfk
 PonyMaterial.tres::PhysicsMaterial::471486395760221348::1696932943::0::1::::<><>::
 slide2.gd::GDScript::-1::1696932673::0::1::::<>Node2D<>::
 slide2.tscn::PackedScene::3025600647760991544::1698633700::0::1::::<><>::res://unfinished/Slide/slide2.gd<>uid://cxhern0jtbnwt
 slide2Mateiral.tres::PhysicsMaterial::6401909363664841035::1696933007::0::1::::<><>::
 slide.gd::GDScript::-1::1696930468::0::1::::<>Node2D<>::
-slide.tscn::PackedScene::8891220182041489966::1702101448::0::1::::<><>::res://unfinished/Slide/slide.gd<>uid://boatyqxivrrjm::::res://Assets/580b585b2edbce24c47b2b90.png
+slide.tscn::PackedScene::8891220182041489966::1702466776::0::1::::<><>::res://unfinished/Slide/slide.gd<>uid://boatyqxivrrjm::::res://Assets/580b585b2edbce24c47b2b90.png
 ::res://unfinished/state_machine/::1701682146
 level_with_states.gd::GDScript::-1::1692343703::0::1::::<>Node<>::
 level_with_states.tscn::PackedScene::6514158837936904387::1697007066::0::1::::<><>::res://unfinished/state_machine/level_with_states.gd<>uid://ooxyflrhc1wq
